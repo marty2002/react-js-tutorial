@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6"
+    },
+    "files": [
+        "app.js",
+        "react/react.js",
+        "react/react-dom.js"
+    ]
+}
